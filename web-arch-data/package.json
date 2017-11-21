@@ -1,0 +1,9 @@
+{
+  "name": "web-arch-data",
+  "version": "0.0.0",
+  "description": "web-arch-data",
+  "main": "app.js",
+  "author": {
+    "name": "l.pongracz"
+  }
+}
